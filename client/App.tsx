@@ -5,8 +5,8 @@
  * @module App
  *
  * @description
- * App.jsx is the main React component for the App.
- * This is the starting point for the CodersCorner SPA.
+ * App.tsx is the main React component for the App.
+ * This is the starting point for the Daily SPA.
  *
  * **************************************************
  */
